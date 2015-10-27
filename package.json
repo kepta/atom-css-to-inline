@@ -1,9 +1,16 @@
 {
   "name": "css-to-inline",
   "main": "./lib/css-to-inline",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "An atom plugin for converting css to inline javascript object. Useful for react/jsx projects",
-  "keywords": ["react","reactjs","JSX","atom","package",""],
+  "keywords": [
+    "react",
+    "reactjs",
+    "JSX",
+    "atom",
+    "package",
+    ""
+  ],
   "activationCommands": {
     "atom-workspace": "css-to-inline:convert"
   },
