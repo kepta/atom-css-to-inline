@@ -10,3 +10,4 @@ or simply
 ```
 apm install css-to-inline
 ```
+<iframe src="//giphy.com/embed/3o85xJjvBxArQUcMbS" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/3o85xJjvBxArQUcMbS">via GIPHY</a></p>
