@@ -1,0 +1,51 @@
+{
+  "name": "css-to-inline",
+  "main": "./lib/css-to-inline",
+  "version": "1.0.1",
+  "description": "An atom plugin for converting css to inline javascript object. Useful for react/jsx projects",
+  "keywords": [
+    "react",
+    "reactjs",
+    "JSX",
+    "atom",
+    "package"
+  ],
+  "activationCommands": {
+    "atom-workspace": "css-to-inline:convert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kepta/atom-css-to-inline.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readme": "# CSS-to-inline\n\nAn atom plugin to convert css code directly to a javascript object. Useful for react/jsx projects\n\n![A screenshot of your package](http://i.giphy.com/3o85xJjvBxArQUcMbS.gif)\n\n## Usage\nsearch for 'css to inline ' in atom package manager\nor simply\n```\napm install css-to-inline\n```\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/kepta/atom-css-to-inline/issues"
+  },
+  "homepage": "https://github.com/kepta/atom-css-to-inline#readme",
+  "_id": "css-to-inline@1.0.0",
+  "_shasum": "ffa5b739fbb12710c4dc2986b2d435e10b480d45",
+  "_resolved": "file:../d-115927-5521-hfsomv/package.tgz",
+  "_from": "../d-115927-5521-hfsomv/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/css-to-inline.coffee",
+        "lib/inline.coffee"
+      ],
+      ".js": [
+        "lib/inline.js"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
