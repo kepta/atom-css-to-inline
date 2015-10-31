@@ -14,5 +14,5 @@ apm install css-to-inline
 
 Right click the selected text or use shortcut
 ```
-ctrl-opt-I
+ctrl-opt-i
 ```
